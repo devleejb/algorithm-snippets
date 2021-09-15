@@ -8,3 +8,4 @@
 
 - [DFS(Depth First Search)](dfs.cpp)
 - [BFS(Breadth First Search)](bfs.cpp)
+- [Selection Sort](selection_sort.cpp)
