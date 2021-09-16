@@ -10,3 +10,4 @@
 - [BFS(Breadth First Search)](bfs.cpp)
 - [Selection Sort](selection_sort.cpp)
 - [Insertion Sort](insertion_sort.cpp)
+- [Quick Sort](quick_sort.cpp)
