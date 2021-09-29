@@ -13,3 +13,4 @@
 - [Quick Sort](quick_sort.cpp)
 - [Counting Sort](counting_sort.cpp)
 - [Binary Search](binary_search.cpp)
+- [Dijkstra](dijkstra.cpp)
