@@ -14,3 +14,4 @@
 - [Counting Sort](counting_sort.cpp)
 - [Binary Search](binary_search.cpp)
 - [Dijkstra](dijkstra.cpp)
+- [Floyd-Warshall](floyd-warshall.cpp)
