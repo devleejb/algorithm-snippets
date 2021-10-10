@@ -17,3 +17,4 @@
 - [Floyd-Warshall](floyd-warshall.cpp)
 - [Union-Find](union_find.cpp)
 - [Kruskal](kruskal.cpp)
+- [Topological Sort](topological_sort.cpp)
