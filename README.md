@@ -15,3 +15,4 @@
 - [Binary Search](binary_search.cpp)
 - [Dijkstra](dijkstra.cpp)
 - [Floyd-Warshall](floyd-warshall.cpp)
+- [Union-Find](union_find.cpp)
