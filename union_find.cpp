@@ -5,6 +5,9 @@ using namespace std;
 int parent[1001];
 
 void unionSet(int a, int b) {
+     a = findParent(a);
+     b = findParent(b);
+
     if (a > b) parent[a] = parent[b];
     else parent[b] = a;
 }
