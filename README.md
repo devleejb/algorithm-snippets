@@ -21,3 +21,4 @@
 - [Prime Number Checker](prime_number.cpp)
 - [Sieve of Eratosthenes](sieve_of_eratosthenes.cpp)
 - [Two Pointers](two_pointers.cpp)
+- [Interval Sum](interval_sum.cpp)
