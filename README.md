@@ -18,3 +18,4 @@
 - [Union-Find](union_find.cpp)
 - [Kruskal](kruskal.cpp)
 - [Topological Sort](topological_sort.cpp)
+- [Prime Number Checker](prime_number.cpp)
