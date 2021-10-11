@@ -6,7 +6,7 @@ int intervalSum, cnt, targetSum = 5;
 int arr[5] = {1, 2, 3, 4, 5};
 
 
-void calculateIntervalSum(int N) {
+void countSeq(int N) {
     int end = 0;
 
     for (int start = 0; start < N; ++start) {
@@ -22,7 +22,7 @@ void calculateIntervalSum(int N) {
 }
 
 int main() {
-    calculateIntervalSum(5);
+    countSeq(5);
 
     printf("%d", cnt);
 

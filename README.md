@@ -20,3 +20,4 @@
 - [Topological Sort](topological_sort.cpp)
 - [Prime Number Checker](prime_number.cpp)
 - [Sieve of Eratosthenes](sieve_of_eratosthenes.cpp)
+- [Two Pointers](two_pointers.cpp)
